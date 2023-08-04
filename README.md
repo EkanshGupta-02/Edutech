@@ -7,6 +7,7 @@ This is a Edtech Platform Allowing people to have three functionalities of a stu
 
 ![Screenshot (390)](https://github.com/EkanshGupta-02/Edutech/assets/76432963/efd24e0b-64aa-404c-a158-ab0ebeca0eb4)
 
+![Screenshot (393)](https://github.com/EkanshGupta-02/Edutech/assets/76432963/63aee86e-4ebe-49f1-8246-1760be1b3124)
 
 
 
